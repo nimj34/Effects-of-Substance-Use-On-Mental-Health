@@ -1,1 +1,1 @@
-# Effects-of-Substance-Use-On-Mental-Health-By-Sexual-Orientation
+# Effects-of-Substance-Use-On-Mental-Health
