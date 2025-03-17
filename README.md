@@ -5,8 +5,17 @@
 ## 📊 Skills Showcased
 
 ## 🤷 Research Question
+How does substance use influence mental health outcomes in lesbian, gay and bisexual (LGB) individuals compared to their non-LGB counterparts?
+
+NOTE: Since there are no questions asking about if respondents are transgender, we will only be focusing on LGB rather than LGBT. Future research should take the transgender population into account.
 
 ## 🔎 Hypotheses
+1. LGB individuals who engage in regular substance use (alcohol, cigarette, and marijuana) will be more likely to have experienced serious psychological distress in the past month compared to non-LGB individuals.
+2. LGB individuals who engage in regular substance use (alcohol, cigarette, and marijuana) will be more likely to report a past year major depressive episode compared to non-LGB individuals.
+3. LGB individuals who have had more days of binge drinking in the past month will be more likely to have experienced serious psychological distress in the past month compared to non-LGB individuals.
+4. LGB individuals who have an alcohol use disorder in the past year will be more likely to have suicidal thoughts, plans, or attempts in the past year compared to non-LGB individuals.
+5. LGB individuals who have a marijuana use disorder in the past year will be more likely to have suicidal thoughts, plans, or attempts in the past year compared to non-LGB individuals.
+6. LGB individuals who have a nicotine dependence in the past month will be more likely to have experienced serious psychological distress in the past month compared to non-LGB individuals.
 
 ## 📖 Variables
 The data found in this project is from the [2023 National Survey on Drug Use and Health](https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health/national-releases/2023). This survey measures substance use, mental illness, and treatment in the civilian non-institutionalized population aged 12 or older. For the purposes of this project, however, I will only be focusing on adults. 
