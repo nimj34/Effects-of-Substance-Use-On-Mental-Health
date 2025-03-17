@@ -70,6 +70,6 @@ Values:
 
 * Range 0-30
 
-### 8. **NICDEPEND**- 
+### 8. **NICDEPEND**- nicotine dependence in past month based on criteria according to the Nicotine Dependence Syndrome Scale and the Fagerstrom Test of Nicotine
 
 ## 📉 Findings
